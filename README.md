@@ -230,4 +230,4 @@ public RestResult<?> addBookComment(BookComment comment, HttpServletRequest requ
 
 <img width="1126" height="135" alt="链接" src="https://github.com/user-attachments/assets/5ace860d-89b7-4766-bb47-491712774ffc" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
