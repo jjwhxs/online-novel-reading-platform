@@ -226,8 +226,6 @@ public RestResult<?> addBookComment(BookComment comment, HttpServletRequest requ
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1126" height="135" alt="链接" src="https://github.com/user-attachments/assets/5ace860d-89b7-4766-bb47-491712774ffc" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWXmJ5rZg==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
